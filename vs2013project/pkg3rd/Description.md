@@ -1,0 +1,14 @@
+<table>
+    <tr>
+        <td>组件</td>
+        <td>版本</td>
+    </tr>
+    <tr>
+        <td>boost</td>
+        <td>1.63.0</td>
+    </tr>
+    <tr>
+        <td>websocketpp</td>
+        <td>0.7.0</td>
+    </tr>
+</table>
